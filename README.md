@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hola 👋 soy Mijhael Samaniego 
 
-<!--
-**mijhaels/mijhaels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador Full Stack con experiencia en proyectos desde dashboards institucionales hasta plataformas financieras. Me apasiona crear soluciones escalables y eficientes.
 
-Here are some ideas to get you started:
+## 🚀 Mis habilidades principales
+- **Frontend**: React, Next.js, Angular, Tailwind CSS, Shadcn/UI.
+- **Backend**: Java (Quarkus, Java EE, Spring Boot), Node.js.
+- **Bases de datos**: PostgreSQL, ScyllaDB, MongoDB.
+- **Otras tecnologías**: Camunda, Crawlee, Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Encuéntrame en
+- [LinkedIn](https://www.linkedin.com/in/mijhaels)
+- [Correo](mailto:mijhaelsamaniego@gmail.com)
